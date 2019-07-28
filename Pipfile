@@ -9,6 +9,7 @@ prospector = "*"
 [packages]
 flask = "*"
 elasticsearch = "*"
+names = "*"
 
 [requires]
 python_version = "3.7"
